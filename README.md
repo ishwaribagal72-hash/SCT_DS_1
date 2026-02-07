@@ -17,7 +17,7 @@ To understand data visualization techniques by creating an age distribution grap
 * VS Code
 * Git & GitHub
 
-## 📈 Output
+
 
 ## 📈 Output
 The graph shows population distribution divided into:
