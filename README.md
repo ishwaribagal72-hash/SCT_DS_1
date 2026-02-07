@@ -19,11 +19,13 @@ To understand data visualization techniques by creating an age distribution grap
 
 ## 📈 Output
 
+## 📈 Output
 The graph shows population distribution divided into:
+- 0–20 Years
+- 21–44 Years
+- 45+ Years
 
-* 0–20 Years
-* 21–44 Years
-* 45+ Years
+![Population Age Distribution](population_age_distribution.png)
 
 ## 🚀 Author
 
